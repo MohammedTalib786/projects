@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Beyond Basic Home (Wordpress)",
+        "url": "https://www.beyondbasichome.com/",
+        "project_type": "live"
+    },
+    {
+        "name": "Blossom (Wordpress)",
+        "url": "https://rajhansblossom.com/",
+        "project_type": "live"
+    },
+    {
+        "name": "Hamrah (Wordpress)",
+        "url": "https://hamrah.nl/",
+        "project_type": "live"
+    },
+    {
+        "name": "Mewaz (Shopify)",
+        "url": "https://www.mewaz.in/",
+        "project_type": "live"
+    },
+
+
+    {
+        "name": "Portfolio Website",
+        "url": "https://mohammedtalib786.github.io/portfolio/",
+        "project_type": "pure"
+    },
+    {
+        "name": "Guessing Game",
+        "url": "https://mohammedtalib786.github.io/guess-the-number-js/",
+        "project_type": "pure"
+    },
+    {
+        "name": "Dictionary Website",
+        "url": "https://mohammedtalib786.github.io/dictionary-web-app/",
+        "project_type": "pure"
+    },
+    {
+        "name": "Random Quotes Generator",
+        "url": "https://mohammedtalib786.github.io/random-quote-generator/",
+        "project_type": "pure"
+    },
+    {
+        "name": "Notes App",
+        "url": "https://mohammedtalib786.github.io/notes-app/",
+        "project_type": "pure"
+    },
+    {
+        "name": "Form Validation",
+        "url": "https://mohammedtalib786.github.io/form-validation/",
+        "project_type": "pure"
+    },
+    {
+        "name": "Basic Calculator",
+        "url": "https://mohammedtalib786.github.io/basic-calculator-js/",
+        "project_type": "pure"
+    },
+
+
+    {
+        "name": "Currency Converter",
+        "url": "https://currency-converter-react-khaki-eight.vercel.app/",
+        "project_type": "react"
+    },
+    {
+        "name": "Password Generator",
+        "url": "https://password-generator-react-steel.vercel.app/",
+        "project_type": "react"
+    },
+    {
+        "name": "TextUtilities React App",
+        "url": "https://mohammedtalib786.github.io/text-utilities-react-app/",
+        "project_type": "react"
+    }
+]
